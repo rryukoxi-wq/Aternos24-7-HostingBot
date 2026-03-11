@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ryukoxi0318_.aternos.me",
+    "ip": "dogfish.aternos.host",
     "port": 51368,
     "version": "1.21.1",
     "try-creative": false
